@@ -1,0 +1,64 @@
+/*
+public class Debo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int x=100;
+x++;
+System.out.println(x);
+	}
+
+}
+*/
+
+/*public class Debo{
+	public static void main(String[] args) {
+		char ch='a';
+		ch++;
+		System.out.println(ch);}}*/
+
+/*public class Debo{
+	public static void main(String[] args) {
+		double d=10.5;
+		d++;
+		System.out.println(d);
+	}
+}*/
+
+/*public class Debo{
+	public static void main(String[] args) {
+		boolean b=true; //BOOLEAN NOT POSSIBLE FOR INCREMENT OR DECREAMENT
+		b++;
+		System.out.println(b);
+	}
+}*/
+
+/*public class Debo{
+	public static void main(String[] args) {
+
+		int x=10;
+		if (x)
+		{
+			System.out.println("Hello");// JAVA DOESNOT SUPPORT 0 -> False and 1-> True UNLESS SPECIFICALLY STATED.
+		}
+		else
+		{
+			System.out.println("Hi");
+		}
+	}
+}*/
+
+public class Debo{
+	public static void main(String[] args) {
+
+		int x=10;
+		if (x20)
+		{
+			System.out.println("Hello");// JAVA DOESNOT SUPPORT 0 -> False and 1-> True UNLESS SPECIFICALLY STATED.
+		}
+		else
+		{
+			System.out.println("Hi");
+		}
+	}
+}

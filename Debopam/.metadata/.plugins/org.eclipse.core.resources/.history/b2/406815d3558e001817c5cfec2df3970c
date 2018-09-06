@@ -1,0 +1,26 @@
+/*
+public class Debo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int x=100;
+x++;
+System.out.println(x);
+	}
+
+}
+*/
+
+/*public class Debo{
+	public static void main(String[] args) {
+		char ch='a';
+		ch++;
+		System.out.println(ch);}}*/
+
+public class Debo{
+	public static void main(String[] args) {
+		double d=10.5;
+		d++;
+		System.out.println(d);
+	}
+}

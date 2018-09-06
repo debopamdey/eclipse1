@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+E:\Debopam\.metadata\.plugins\org.eclipse.jdt.core
+2304442455.index

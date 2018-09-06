@@ -1,0 +1,7 @@
+
+_
+squid:S106";Replace this usage of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8ð’Ž²Ì,H
+_squid:S1118":Add a private constructor to hide the implicit public one.(ÊÐŒ³ÿÿÿÿÿ8ð’Ž²Ì,H
+3squid:S1220""Move this file to a named package.H
+Zsquid:S1854"5Remove this useless assignment to local variable "x".(ï‰ÀŽùÿÿÿÿ8ð’Ž²Ì,H
+psquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­Ëîòýÿÿÿÿ8­´²Ì,H
